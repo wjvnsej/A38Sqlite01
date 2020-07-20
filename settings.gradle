@@ -1,0 +1,2 @@
+rootProject.name='A38Sqlite01'
+include ':app'
